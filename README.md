@@ -1,2 +1,3 @@
 # blog-template
-My blog
+
+Public template used for my blog.
